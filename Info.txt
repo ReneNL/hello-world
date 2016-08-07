@@ -1,0 +1,2 @@
+Extra file Info.txt
+Is it added to the project?
